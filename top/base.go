@@ -35,7 +35,7 @@ type Aliexpress struct {
 
 func (ae *Aliexpress) InitAPI(session string)  {
 
-	cfg, err := goconfig.LoadConfigFile("top/config.conf")
+	cfg, err := goconfig.LoadConfigFile("conf/config.conf")
 	if err != nil {
 		log.Fatal(err)
 	}
