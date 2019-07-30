@@ -2,3 +2,4 @@
 .idea/workspace.xml
 top/config.conf
 conf/config.conf
+test.go
