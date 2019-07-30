@@ -10,7 +10,7 @@ import (
 func main() {
 
 	//设置session
-	var session = "5459519804624b1rpabpSdtFhdsQuZC7I0EMR170c63d5AVodZehwauVdNne1254m5Gi"
+	var session = "50002900324b1rpabpSdtFhFPVQuZC7I0EMR170c63d5AVodZeDxgnuVdNne984m5Gi"
 
 	//创建API
 	aeApi := product.AeProductQueryAPI{}
