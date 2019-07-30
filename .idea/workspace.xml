@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e28cf7d3-5ac4-4aba-8e99-4391eda8752a" name="Default Changelist" comment="init">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e28cf7d3-5ac4-4aba-8e99-4391eda8752a" name="Default Changelist" comment="init" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +19,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="76">
-                <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <first_editor relative-caret-position="247">
+                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../robfig/config/config.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="55" column="11" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="11" />
+            <state relative-caret-position="232">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding>
                 <element signature="e#615#646#0" expanded="true" />
                 <element signature="n#!!block;n#New#0" />
@@ -97,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/top/config.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="38">
+              <caret line="2" column="45" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -147,9 +145,10 @@
         <option value="$PROJECT_DIR$/top/api/product/onlineaeproduct.go" />
         <option value="$PROJECT_DIR$/config.conf" />
         <option value="$PROJECT_DIR$/top/base.go" />
-        <option value="$PROJECT_DIR$/top/config.conf" />
         <option value="$PROJECT_DIR$/test.go" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/top/config.conf" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -171,6 +170,11 @@
             <path>
               <item name="aeop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aeop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aeop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aeop" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aeop" type="b2602c69:ProjectViewProjectNode" />
@@ -428,17 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../robfig/config/config.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="55" column="11" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="11" />
-          <folding>
-            <element signature="e#615#646#0" expanded="true" />
-            <element signature="n#!!block;n#New#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Unknwon/goconfig/read.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -470,26 +463,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top/config.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <first_editor relative-caret-position="247">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../robfig/config/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#615#646#0" expanded="true" />
+            <element signature="n#!!block;n#New#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top/config.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="45" />
         </state>
       </provider>
     </entry>
